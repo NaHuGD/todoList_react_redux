@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,UACI,4BACJ,CACA,WACI,SAAS,CACT,eACJ","file":"main.5f914deb.chunk.css","sourcesContent":[".complete{\r\n    text-decoration: line-through;\r\n}\r\n.btnActive{\r\n    color:red;\r\n    font-weight: bold;\r\n}"]}
